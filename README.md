@@ -23,8 +23,8 @@ A Chrome extension that scrapes web pages using the FireCrawl API and saves the 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/bala1802/Web-Scrapping.git
+   cd Web-Scrapping
    ```
 
 2. Install the required Python packages:
